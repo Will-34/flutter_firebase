@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "622053080972",
+    "project_id": "flutter-push-4d652",
+    "storage_bucket": "flutter-push-4d652.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622053080972:android:acf5c08496184f1abbe0a9",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622053080972-coumgd34b23ienehrd9kkdpfem4l20bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsASEAbvTdEQikUado1kMB0_3zCNbQ9Oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622053080972-coumgd34b23ienehrd9kkdpfem4l20bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:622053080972:android:5d6a1c6f129ca594bbe0a9",
+        "android_client_info": {
+          "package_name": "com.wilfredopg.flutter_push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "622053080972-2heh9vm7v425svuvdkablu6ukvh5cdd4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wilfredopg.flutter_push",
+            "certificate_hash": "378d31656b4edc04f84f2f54038a818de9871e14"
+          }
+        },
+        {
+          "client_id": "622053080972-coumgd34b23ienehrd9kkdpfem4l20bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsASEAbvTdEQikUado1kMB0_3zCNbQ9Oc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "622053080972-coumgd34b23ienehrd9kkdpfem4l20bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
